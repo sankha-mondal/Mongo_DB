@@ -5,10 +5,12 @@
 => In C drive Create a folder name as "data", Under "data" folder create another 
       folder called "db".
 
-2) To start MongoDB server:🎯
+2) To start MongoDB server: Go to C:\Program Files\MongoDB\Server\5.0\bin 🎯 [*Mandatory]
+=> Open cmd
 => mongod
 
-3) To run the Mongo db Commands:🎯
+3) To run the Mongo db Commands: Go to C:\Program Files\MongoDB\Server\5.0\bin 🎯
+=> Open cmd
 => mongo
 
 4) To show all databases:🎯
