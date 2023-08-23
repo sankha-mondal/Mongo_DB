@@ -1,5 +1,5 @@
 			               🧾 MongoDB Operations 📜
-			             -----------------------------------
+			          -----------------------------------
 
 1) Do this for first time for a user:🎯
 => In C drive Create a folder name as "data", Under "data" folder create another 
